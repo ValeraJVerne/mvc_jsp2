@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.sql.DataSource;
 
 import DAO.UsuarioDAO;
-
+//Este es el comentario de prueba
 /**
  * Servlet implementation class Controlador_eliminaUsuario
  */
