@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+tr:first-child{
+	background-color:rgb(32, 74, 135);
+	color:white;
+}
+tr{
+	background-color:#3465a4;
+}
